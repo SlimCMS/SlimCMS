@@ -2,3 +2,4 @@
 vendor/
 modules/
 theme/
+.phpunit.result.cache

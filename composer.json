@@ -15,5 +15,9 @@
         "psr-4": {
             "SlimCms\\": "core/"
         }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5",
+        "symfony/var-dumper": "^5.2"
     }
 }
