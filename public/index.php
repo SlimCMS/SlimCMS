@@ -2,4 +2,4 @@
 
 require (__DIR__ . '/../vendor/autoload.php');
 
-(new \SlimCms\Core())->work();
+(new \Slimcms\Core())->work();
